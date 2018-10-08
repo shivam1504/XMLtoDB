@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movie>
+<Bollywood>
+	<Action>Dhoom,Race</Action>
+	<Comedy>HeraPheri,Hungama</Comedy>
+	<Horror>1920,Alone,Raj</Horror>
+</Bollywood>
+<Hollywood>
+	<Action>MI,Avengers</Action>
+	<Comedy>Mr Bean</Comedy>
+	<Horror>Conjuring,Annabelle,IT</Horror>
+</Hollywood>
+<Tollywood>
+	<Action>Mass</Action>
+	<Comedy>Telugu</Comedy>
+	<Horror>Kanchana</Horror>
+</Tollywood>
+</Movie>
